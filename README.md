@@ -1,12 +1,19 @@
-gisah
+Restoar9x
+
+A fork of GISAH by the original writer.
+
 =====
 
-System Optimizer
+System Optimizer written in DOS Batch.
 
-This tool is meant for machines that run Windows 95, 98, ME, or 2000. I still work on machines that have these operating systems and most of the tools that I usually use aren't compatible. So I built one.
+This tool is meant for machines that run Windows 95, 98, ME, or 2000. Every now and then, I work on machines that have these operating systems and most of the tools that I rely on usually aren't compatible. So I built one.
 
-GISAH
-Copyright (C) 2014  Theatre-X
+The scripts ultimately make system calls and have basic commands to interact with directories. It was heavily inspired by Bleachbit.
+
+GISAH and restoar9x
+----
+Copyright (C) 2014, 2025  Theatre-X, killdashnine
+
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or any later version.
