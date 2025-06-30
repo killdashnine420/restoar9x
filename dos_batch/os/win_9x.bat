@@ -1,5 +1,5 @@
-rem     <GISAH>
-rem    Copyright (C) <2014>  <Brandon Smith>
+rem     <restoar9x>
+rem    Copyright (C) <2025>  <Brandon Smith>
 rem    This program is free software: you can redistribute it and/or modify
 rem    it under the terms of the GNU General Public License as published by
 rem    the Free Software Foundation, either version 3 of the License, or any later version.
@@ -16,7 +16,7 @@ rem    along with this program.  If not, see <http://www.gnu.org/licenses/>."
 
 :choice
 
-title GISAH (Windows 9x/ME)
+title Restoar9x (Windows 9x/ME)
 
 color 17
 
@@ -43,7 +43,7 @@ rem Echoing command listing to user
 echo I. Clean Hard-disk
 echo II. Self-Cleaning
 echo III. Launch Windows Tools
-echo IV. GISAH System Tools
+echo IV. System Tools
 echo V. Launch Cygwin
 echo VI. Networking Tools
 echo VII. Drop to Command Prompt
